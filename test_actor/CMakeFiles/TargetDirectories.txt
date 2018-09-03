@@ -1,0 +1,4 @@
+/Users/sunshilin/code/test/test_actor/CMakeFiles/rebuild_cache.dir
+/Users/sunshilin/code/test/test_actor/CMakeFiles/edit_cache.dir
+/Users/sunshilin/code/test/test_actor/CMakeFiles/_cpuminer_rr.dir
+/Users/sunshilin/code/test/test_actor/CMakeFiles/cpuminer_rr.dir
